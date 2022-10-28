@@ -1,0 +1,2 @@
+dicas de sintaxe para markdown: https://www.markdownguide.org/basic-syntax/
+comandos basicos git: https://comandosgit.github.io/
